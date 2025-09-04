@@ -6,6 +6,8 @@ This portfolio project consists of two-part dashboard system created with Micros
 
 ## **Dashboard 1: Sales Performance Dashboard**
 
+<img width="637" height="338" alt="power bi" src="https://github.com/user-attachments/assets/81a96f5c-2da3-4825-94d4-d3f2e20e8d40" />
+
 
 
 ## ✨Key Features
@@ -16,6 +18,7 @@ This portfolio project consists of two-part dashboard system created with Micros
 -	**Historical Trends**: I used a chart that visualizes Total Sales by Year, allowing for an analysis of year- over-year sales growth and trends.
 
   ## 🗂️**Dashboard 2: Customer and Logistics Analytics**
+<img width="631" height="331" alt="power bi Dashboard" src="https://github.com/user-attachments/assets/72e57c16-3837-4d7c-877a-291b69d7ae04" />
 
   ## Key Features
   
